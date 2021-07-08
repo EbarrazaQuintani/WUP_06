@@ -60,7 +60,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
-
+Our numerical results shows that a 2/3 of white people favored capital punishment which is larger than black people and other ethnicities. Black people's ratio was 54/46 which means that they opposed capital punishment. Other races favored capital punishment 56-54.
 
 ## Inferential Results
 
