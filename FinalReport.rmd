@@ -47,6 +47,8 @@ barchartGC(~race + cappun,data=GSS, type="percent")
 
 ```
 
+Looking at the bar chart shows that a majority of people that claimed white as their ethnicity favored capitol punishment. While those who claimed black as their ethnicity opposed capital punishment by around 55/45. And lastly the other ethnicity favored capitol punishment by 58/42/
+
 
 ### Numerical Descriptive Results
 
